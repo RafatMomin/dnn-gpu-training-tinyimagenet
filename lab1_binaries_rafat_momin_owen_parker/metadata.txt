@@ -1,0 +1,4 @@
+Number		Dims		Class Data
+0		64x64x3		brass, memorial tablet, plaque
+1		64x64x3		altar
+2		64x64x3		espresso
